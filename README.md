@@ -25,3 +25,6 @@ docker pull alperakkus/mutationalburden:latest
 ```
 docker run -v /local/path:/data alperakkus/mutationalburden:latest /data/YOUR_DATABASE_FILE.sqlite
 ```
+## 
+##### This project is licensed under the MIT License.
+
